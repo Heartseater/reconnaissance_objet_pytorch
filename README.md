@@ -1,4 +1,4 @@
-# Reconnaissance d'Objets avec PyTorch
+# Reconnaissance d'Objets avec PyTorch (en cours)
 
 Guide étape par étape pour apprendre PyTorch et créer un modèle de reconnaissance d'objets.
 
